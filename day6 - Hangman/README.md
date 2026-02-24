@@ -20,7 +20,6 @@ The player must guess the hidden word letter by letter before running out of liv
 
 ## 📂 Project Structure
 
-.
 ├── main.cpp        # Main game logic
 ├── word_list.h     # Contains the list of possible words
 ├── art.h           # ASCII art stages for the hangman
@@ -74,11 +73,11 @@ Make sure you are using a C++11 (or newer) compatible compiler.
 
 - C++11 or newer
 - Standard Library components used:
-  - <iostream>
-  - <vector>
-  - <string>
-  - <random>
-  - <algorithm>
+  - iostream
+  - vector
+  - string
+  - random
+  - algorithm
 
 No external libraries are required.
 
